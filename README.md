@@ -1,0 +1,1 @@
+A small frontend project built as part of my learning journey to explore the fundamentals of **HTML, CSS, and JavaScript**. It helped me practice basic web development concepts, experiment with styling, and understand how to add interactivity to web pages.
